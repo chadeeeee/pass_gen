@@ -1,3 +1,3 @@
-from pass_gen import generate
+from passgenerate import generate
 
 generate(15)
