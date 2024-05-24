@@ -1,3 +1,4 @@
-from passgenerate import generate
+from PasswordGenerator import generate
 
-generate(15)
+password = generate(10)
+print("Your password is", password)
